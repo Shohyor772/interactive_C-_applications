@@ -1,0 +1,39 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:core="using:PilotNotes.Core"
+        x:Class="NotesAvalonia.MainWindow"
+        x:DataType="core:NotesViewModel"
+        Title="Заметки пилота (Avalonia)" Width="500" Height="600">
+    
+    <Grid Margin="16" RowDefinitions="Auto,Auto,*,Auto,Auto,Auto,Auto" RowSpacing="8">
+        
+        <Grid Grid.Row="0" ColumnDefinitions="*,Auto" ColumnSpacing="8">
+            <TextBox Grid.Column="0" Text="{Binding Draft, Mode=TwoWay}" Watermark="Новая заметка" />
+            <Button Grid.Column="1" Content="Добавить" Command="{Binding AddCommand}" />
+        </Grid>
+
+        <Grid Grid.Row="1" ColumnDefinitions="*,Auto,Auto" ColumnSpacing="8">
+            <TextBox Grid.Column="0" Text="{Binding Query, Mode=TwoWay}" Watermark="Поиск..." />
+            <Button Grid.Column="1" Content="Найти" Command="{Binding SearchCommand}" />
+            <Button Grid.Column="2" Content="Сброс" Command="{Binding ResetSearchCommand}" />
+        </Grid>
+
+        <ListBox Grid.Row="2" ItemsSource="{Binding VisibleNotes}" SelectedItem="{Binding SelectedNote, Mode=TwoWay}">
+            <ListBox.ItemTemplate>
+                <DataTemplate x:DataType="core:Note">
+                    <TextBlock Text="{Binding Text}" Padding="10,8" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Grid Grid.Row="3" ColumnDefinitions="*,*,*" ColumnSpacing="8">
+            <Button Grid.Column="0" Content="Удалить" Command="{Binding DeleteCommand}" />
+            <Button Grid.Column="1" Content="Сохранить" Command="{Binding SaveCommand}" />
+            <Button Grid.Column="2" Content="Загрузить" Command="{Binding LoadCommand}" />
+        </Grid>
+
+        <TextBlock Grid.Row="4" Text="{Binding CountText}" FontWeight="Bold" />
+        <TextBlock Grid.Row="5" Text="{Binding SaveState}" Foreground="Gray" />
+        <TextBlock Grid.Row="6" Text="{Binding Status}" Foreground="Blue" />
+    </Grid>
+</Window>

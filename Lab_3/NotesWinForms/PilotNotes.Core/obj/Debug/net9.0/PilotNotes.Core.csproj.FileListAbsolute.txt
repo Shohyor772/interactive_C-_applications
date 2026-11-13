@@ -1,0 +1,22 @@
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.deps.json
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.AssemblyInfoInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.AssemblyInfo.cs
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\refint\PilotNotes.Core.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\ref\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.AssemblyInfoInputs.cache
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.AssemblyInfo.cs
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.csproj.CoreCompileInputs.cache
+C:\Lab_3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.deps.json
+C:\Lab_3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\PilotNotes.Core\bin\Debug\net9.0\PilotNotes.Core.pdb
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\refint\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\PilotNotes.Core.pdb
+C:\Lab_3\NotesWinForms\PilotNotes.Core\obj\Debug\net9.0\ref\PilotNotes.Core.dll

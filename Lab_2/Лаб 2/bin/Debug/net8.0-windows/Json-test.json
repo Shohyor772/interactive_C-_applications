@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Driver": "\u0410\u043D\u043D\u0430",
+    "Car": "Street",
+    "Track": "\u0423\u0447\u0435\u0431\u043D\u044B\u0439 \u043E\u0432\u0430\u043B",
+    "LapSeconds": 94
+  },
+  {
+    "Id": 2,
+    "Driver": "\u0411\u043E\u0440\u0438\u0441",
+    "Car": "Street",
+    "Track": "\u0423\u0447\u0435\u0431\u043D\u044B\u0439 \u043E\u0432\u0430\u043B",
+    "LapSeconds": 32
+  },
+  {
+    "Id": 3,
+    "Driver": "\u0410\u043D\u043D\u0430",
+    "Car": "Street",
+    "Track": "\u0423\u0447\u0435\u0431\u043D\u044B\u0439 \u043E\u0432\u0430\u043B",
+    "LapSeconds": 72
+  },
+  {
+    "Id": 4,
+    "Driver": "\u0412\u0435\u0440\u0430",
+    "Car": "Sport",
+    "Track": "\u0413\u043E\u0440\u043E\u0434\u0441\u043A\u043E\u0435 \u043A\u043E\u043B\u044C\u0446\u043E",
+    "LapSeconds": 123
+  },
+  {
+    "Id": 6,
+    "Driver": "\u0414\u0438\u043D\u0430",
+    "Car": "Street",
+    "Track": "\u0423\u0447\u0435\u0431\u043D\u044B\u0439 \u043E\u0432\u0430\u043B",
+    "LapSeconds": 111
+  }
+]

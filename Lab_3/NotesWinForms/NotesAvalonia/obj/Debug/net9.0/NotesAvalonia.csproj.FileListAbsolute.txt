@@ -1,0 +1,186 @@
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.exe
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.deps.json
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.runtimeconfig.json
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Base.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Controls.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Dialogs.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Markup.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Metal.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.MicroCom.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.OpenGL.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Vulkan.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Desktop.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.FreeDesktop.AtSpi.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.HarfBuzz.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Native.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Skia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Win32.Automation.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Win32.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\MicroCom.Runtime.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-bionic-arm64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-bionic-x64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\PilotNotes.Core.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\PilotNotes.Core.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.csproj.AssemblyReference.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\Avalonia\resources
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.AssemblyInfoInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.AssemblyInfo.cs
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.csproj.CoreCompileInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAva.B33CD89A.Up2Date
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\refint\NotesAvalonia.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.genruntimeconfig.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\ref\NotesAvalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.csproj.AssemblyReference.cache
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\Avalonia\resources
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.AssemblyInfoInputs.cache
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.AssemblyInfo.cs
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.csproj.CoreCompileInputs.cache
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.exe
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.deps.json
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.runtimeconfig.json
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\NotesAvalonia.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Base.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Controls.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Dialogs.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Markup.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Metal.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.MicroCom.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.OpenGL.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Vulkan.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Desktop.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.FreeDesktop.AtSpi.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.HarfBuzz.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Native.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Skia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Win32.Automation.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.Win32.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\MicroCom.Runtime.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\SkiaSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-bionic-arm64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-bionic-x64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\bin\Debug\net9.0\PilotNotes.Core.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAva.B33CD89A.Up2Date
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\refint\NotesAvalonia.dll
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.pdb
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\NotesAvalonia.genruntimeconfig.cache
+C:\Lab_3\NotesWinForms\NotesAvalonia\obj\Debug\net9.0\ref\NotesAvalonia.dll

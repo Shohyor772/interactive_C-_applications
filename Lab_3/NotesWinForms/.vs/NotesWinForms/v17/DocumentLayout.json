@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lab_3\\NotesWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242F01F2-AFE1-4379-88BC-3F1F32810E24}|NotesWinForms\\NotesWinForms.csproj|C:\\Lab_3\\NotesWinForms\\noteswinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{242F01F2-AFE1-4379-88BC-3F1F32810E24}|NotesWinForms\\NotesWinForms.csproj|solutionrelative:noteswinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B63AB30-B68C-45FC-BEB0-B150489BDEA9}|NotesAvalonia\\NotesAvalonia.csproj|c:\\lab_3\\noteswinforms\\notesavalonia\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B63AB30-B68C-45FC-BEB0-B150489BDEA9}|NotesAvalonia\\NotesAvalonia.csproj|solutionrelative:notesavalonia\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Lab_3\\NotesWinForms\\NotesAvalonia\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "NotesAvalonia\\MainWindow.axaml",
+              "ToolTip": "C:\\Lab_3\\NotesWinForms\\NotesAvalonia\\MainWindow.axaml",
+              "RelativeToolTip": "NotesAvalonia\\MainWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-25T21:36:12.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Lab_3\\NotesWinForms\\NotesWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "NotesWinForms\\Form1.cs",
+              "ToolTip": "C:\\Lab_3\\NotesWinForms\\NotesWinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "NotesWinForms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:22:51.154Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

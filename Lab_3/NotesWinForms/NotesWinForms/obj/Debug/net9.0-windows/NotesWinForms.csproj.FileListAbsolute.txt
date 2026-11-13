@@ -1,0 +1,40 @@
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.exe
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.deps.json
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.runtimeconfig.json
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.Form1.resources
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.GenerateResource.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.AssemblyInfoInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.AssemblyInfo.cs
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\refint\NotesWinForms.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.genruntimeconfig.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\ref\NotesWinForms.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\PilotNotes.Core.dll
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\PilotNotes.Core.pdb
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.AssemblyReference.cache
+C:\Users\Добытчик\Desktop\C#\Лаб 3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWin.6BADDC17.Up2Date
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.exe
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.deps.json
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.runtimeconfig.json
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.dll
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\NotesWinForms.pdb
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\PilotNotes.Core.dll
+C:\Lab_3\NotesWinForms\NotesWinForms\bin\Debug\net9.0-windows\PilotNotes.Core.pdb
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.AssemblyReference.cache
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.Form1.resources
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.GenerateResource.cache
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.AssemblyInfoInputs.cache
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.AssemblyInfo.cs
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.csproj.CoreCompileInputs.cache
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWin.6BADDC17.Up2Date
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.dll
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\refint\NotesWinForms.dll
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.pdb
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\NotesWinForms.genruntimeconfig.cache
+C:\Lab_3\NotesWinForms\NotesWinForms\obj\Debug\net9.0-windows\ref\NotesWinForms.dll
